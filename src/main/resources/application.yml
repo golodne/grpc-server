@@ -1,0 +1,9 @@
+#server name
+spring:
+  application:
+    name: grpc-server
+
+#grpc
+grpc:
+  server:
+    port: 9897
